@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching experience
 nav: true
 nav_order: 6
 ---
+# 2023-2024
+TA at Bonn University, MSc Neuroscience
+Courses:
+- Neural Information Processing
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+# 2022
+TA at Antwerp University, Faculty of Business and Economics, Department of Engineering Management
+Courses:
+- Data Mining
+- Data Engineering
+- Data Science & Ethics
+- Case Studies & Trends in Data Science
