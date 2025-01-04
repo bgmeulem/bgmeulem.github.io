@@ -1,3 +1,15 @@
 "martens":
   - firstname: ["David"]
     url: https://www.uantwerpen.be/en/staff/david-martens/
+
+"oliveira":
+  - firstname: ["Raphael", "RMB", "Raphael Mazzine Barbosa", "Mazzine"]
+    url: https://app.usebraintrust.com/talent/274928/
+
+"harth":
+  - firstname: ["Philipp"]
+    url: https://www.researchgate.net/profile/Philipp-Harth
+
+"bast":
+  - firstname: ["Arco"]
+    url: https://www.janelia.org/people/arco-bast
