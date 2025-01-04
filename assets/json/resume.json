@@ -74,7 +74,8 @@
       "publisher": "Sustainable Computing: Informatics and Systems",
       "releaseDate": "2023",
       "url": "https://www.sciencedirect.com/science/article/pii/S2210537923000197",
-      "summary": "Investigating the power consumption of commonplace data science, and comparing it to large-scale data science and regular computer usage."
+      "summary": "Investigating the power consumption of commonplace data science, and comparing it to large-scale data science and regular computer usage.",
+      "selected": true
     }
   ],
   "skills": [
