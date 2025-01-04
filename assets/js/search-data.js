@@ -471,7 +471,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%6A%6F%72%67%65.%6D%65%75%6C%65%6D%65%65%73%74%65%72@%6D%70%69%6E%67.%6D%70%67.%64%65", "_blank");
+          window.open("mailto:%62%6A%6F%72%67%65.%6D%65%75%6C%65%6D%65%65%73%74%65%72@%6D%70%69%6E%62.%6D%70%67.%64%65", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/bgmeulem", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/bjorge-meulemeester", "_blank");
         },
       },{
         id: 'social-rss',
@@ -486,6 +500,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=bzAOd-gAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://mpinb.mpg.de/en/research-groups/groups/in-silico-brain-sciences/research-focus-ibs.html", "_blank");
         },
       },{
       id: 'light-theme',
