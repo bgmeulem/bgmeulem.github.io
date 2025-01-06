@@ -51,15 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-how-sustainable-is-quot-common-quot-data-science-in-terms-of-power-consumption",
+        },{id: "post-how-sustainable-is-common-data-science-in-terms-of-power-consumption",
       
-        title: 'How sustainable is &quot;common&quot; data science in terms of power consumption? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'How sustainable is “common” data science in terms of power consumption? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "Investigating the climate impact of commonplace data science.",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.open("https://medium.com/@bjorgemeulemeester/how-sustainable-is-common-data-science-in-terms-of-power-consumption-1a02b10b32c3", "_blank");
+          window.open("https://medium.com/@bjorgemeulemeester/how-sustainable-is-common-data-science-in-terms-of-power-consumption-1a02b10b32c3?source=rss-a277135eaacd------2", "_blank");
         
       },
     },{id: "projects-project-1",
