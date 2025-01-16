@@ -62,9 +62,9 @@ ninja.data = [{
           window.open("https://medium.com/@bjorgemeulemeester/how-sustainable-is-common-data-science-in-terms-of-power-consumption-1a02b10b32c3?source=rss-a277135eaacd------2", "_blank");
         
       },
-    },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+    },{id: "projects-isf",
+          title: 'ISF',
+          description: "(Coming soon) An open-source framework for multi-scale neuron-network simulations during in vivo conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
