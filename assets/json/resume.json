@@ -74,8 +74,14 @@
       "publisher": "Sustainable Computing: Informatics and Systems",
       "releaseDate": "2023",
       "url": "https://www.sciencedirect.com/science/article/pii/S2210537923000197",
-      "summary": "Investigating the power consumption of commonplace data science, and comparing it to large-scale data science and regular computer usage.",
-      "selected": true
+      "summary": "Investigating the power consumption of commonplace data science, and comparing it to large-scale data science and regular computer usage."
+    },
+    {
+      "name": "Rapid Prototyping for Coordinated Views of Multi-scale Spatial and Abstract Data: A Grammar-based Approach",
+      "publisher": "Proc. VCBM",
+      "releaseDate": "2023",
+      "url": "https://diglib.eg.org/server/api/core/bitstreams/8ee30473-8396-4ce2-8347-62d8cf469860/content",
+      "summary": "Rapid language-agnostic prototyping for linked visualizations."
     }
   ],
   "skills": [
